@@ -1,7 +1,21 @@
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+  .col3 {
+    columns: 3 100px;
+    -webkit-columns: 3 100px;
+    -moz-columns: 3 100px;
+  }
+</style>
+
 # openelections-data-ma
 Raw election results for Massachusetts
 
 Town list by county
+<div class="col3">
 Barnstable County
 
 - [ ] BARNSTABLE
@@ -101,7 +115,6 @@ Berkshire County
 
 - [ ] Windsor
 
- 
 Bristol County
 
 - [ ] Acushnet
