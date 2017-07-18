@@ -1,74 +1,34 @@
-<style>
-  .col2 {
-    columns: 2 200px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 200px; /* chrome, safari */
-    -moz-columns: 2 200px;    /* firefox */
-  }
-  .col3 {
-    columns: 3 100px;
-    -webkit-columns: 3 100px;
-    -moz-columns: 3 100px;
-  }
-</style>
-
 # openelections-data-ma
 Raw election results for Massachusetts
 
-Town list by county
-<div class="col3">
-Barnstable County
-
-- [ ] BARNSTABLE
-
-- [ ] Bourne
-
-- [ ] Brewster
-
-- [ ] Chatham
-
-- [ ] Dennis
-
-- [ ] Eastham
-
-- [ ] Falmouth
-
-- [ ] Harwich
-
-- [ ] Mashpee
-
-- [ ] Orleans
-
-- [ ] Provincetown
-
-- [ ] Sandwich
-
-- [ ] Truro
-
-- [ ] Wellfleet
-
+###Town list by county
+**Barnstable County**  
+- [ ] BARNSTABLE  
+- [ ] Bourne  
+- [ ] Brewster  
+- [ ] Chatham  
+- [ ] Dennis  
+- [ ] Eastham  
+- [ ] Falmouth  
+- [ ] Harwich  
+- [ ] Mashpee  
+- [ ] Orleans  
+- [ ] Provincetown  
+- [ ] Sandwich  
+- [ ] Truro  
+- [ ] Wellfleet  
 - [ ] Yarmouth
 
- 
-Berkshire County
-
-- [ ] Adams
-
-- [ ] Alford
-
-- [ ] Becket
-
-- [ ] Cheshire
-
-- [ ] Clarksburg
-
-- [ ] Dalton
-
-- [ ] Egremont
-
-- [ ] Florida
-
-- [ ] Great Barrington
-
+**Berkshire County**  
+- [ ] Adams  
+- [ ] Alford  
+- [ ] Becket  
+- [ ] Cheshire  
+- [ ] Clarksburg  
+- [ ] Dalton  
+- [ ] Egremont  
+- [ ] Florida  
+- [ ] Great Barrington  
 - [ ] Hancock
 
 - [ ] Hinsdale
@@ -115,7 +75,7 @@ Berkshire County
 
 - [ ] Windsor
 
-Bristol County
+**Bristol County**
 
 - [ ] Acushnet
 
@@ -157,8 +117,7 @@ Bristol County
 
 - [ ] Westport
 
- 
-Dukes County
+**Dukes County**
 
 - [ ] Aquinnah
 
@@ -174,8 +133,7 @@ Dukes County
 
 - [ ] West Tisbury
 
- 
-Essex County
+**Essex County**
 
 - [ ] AMESBURY
 
@@ -245,8 +203,7 @@ Essex County
 
 - [ ] West Newbury
 
- 
-Franklin County
+**Franklin County**
 
 - [ ] Ashfield
 
@@ -300,8 +257,7 @@ Franklin County
 
 - [ ] Whately
 
- 
-Hampden County
+**Hampden County**
 
 - [ ] AGAWAM
 
@@ -349,8 +305,7 @@ Hampden County
 
 - [ ] Wilbraham
 
- 
-Hampshire County
+**Hampshire County**
 
 - [ ] Amherst
 
@@ -392,8 +347,7 @@ Hampshire County
 
 - [ ] Worthington
 
- 
-Middlesex County
+**Middlesex County**
 
 - [ ] Acton
 
@@ -503,13 +457,11 @@ Middlesex County
 
 - [ ] WOBURN
 
- 
-Nantucket County
+**Nantucket County**
 
 - [ ] Nantucket*
 
- 
-Norfolk County
+**Norfolk County**
 
 - [ ] Avon
 
@@ -567,8 +519,7 @@ Norfolk County
 
 - [ ] Wrentham
 
- 
-Plymouth County
+**Plymouth County**
 
 - [ ] Abington
 
@@ -624,8 +575,7 @@ Plymouth County
 
 - [ ] Whitman
 
- 
-Suffolk County
+**Suffolk County**
 
 - [ ] BOSTON*
 
@@ -635,8 +585,7 @@ Suffolk County
 
 - [ ] WINTHROP
 
- 
-Worcester County
+**Worcester County**
 
 - [ ] Ashburnham
 
@@ -758,4 +707,3 @@ Worcester County
 
 - [ ] WORCESTER* 
 
-</div>
